@@ -3,6 +3,10 @@ This is the repository for the LinkedIn Learning course `OpenAI API: Function Ca
 
 ![course-name-alt-text][lil-thumbnail-url] 
 
+## Course Description
+
+
+
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository has a single `main` branch with a fully built out app with multiple pages, each demonstrating a different feature of tool and function calling in the OpenAI Responses API. 
@@ -16,6 +20,12 @@ To use the exercise files:
 3. Run `npm run dev` to start the development server
 4. Follow the instructions in terminal to open the app in your browser
 5. Press `Ctrl + C` in terminal at any time to stop the development server 
+
+## Instructor 
+
+Morten Rand-Hendriksen
+
+Principal Staff Instructor, Speaker, Web Designer, and Software Developer
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
