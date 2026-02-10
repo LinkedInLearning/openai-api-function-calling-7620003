@@ -15,6 +15,9 @@
   "emmet.triggerExpansionOnTab": true,
   "files.autoSave": "afterDelay",
   "terminal.integrated.fontSize": 18,
+  "terminal.integrated.env.linux": {
+    "ZDOTDIR": "${workspaceFolder}/.vscode/zsh"
+  },
   "workbench.colorTheme": "LinkedIn Learning Dark",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true
