@@ -1,5 +1,9 @@
 setopt prompt_subst
 
+# Keep completion cache out of the workspace
+export ZSH_COMPDUMP="$HOME/.cache/zsh/.zcompdump-${ZSH_VERSION}"
+mkdir -p -- "$HOME/.cache/zsh" 2>/dev/null
+
 # Human-friendly workspace label (display only)
 WORKSPACE_LABEL="exercise-files"
 
