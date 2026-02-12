@@ -5,9 +5,9 @@ This is the repository for the LinkedIn Learning course `OpenAI API: Function Ca
 
 ## Course Description
 
+<p>Tools and function calling unlock the potential of AI apps by letting the apps run software and perform tasks. In this course, explore how tools work in the OpenAI Responses API and how to choose the right approach for the capability you need. You integrate built-in tools such as web browsing, then add new behavior with custom functions that let your app take real actions and return structured results. You can also extend your app beyond a single environment by connecting it to local and hosted Model Context Protocol (MCP) servers, enabling your AI to access the services and resources you want—without hardwiring every integration directly into your app. </p>
 
 
-_See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository has a single `main` branch with a fully built out app with multiple pages, each demonstrating a different feature of tool and function calling in the OpenAI Responses API. 
 
